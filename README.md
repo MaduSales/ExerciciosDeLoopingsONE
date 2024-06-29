@@ -5,3 +5,5 @@ Olá! Estou participando do processo seletivo do Oracle ONE, da parceria com a A
 <br>
 ## Outros operadores que deixarei para consulta
 ![image](https://github.com/MaduSales/ExerciciosDeLoopingsONE/assets/166547195/a184cbfb-0bc2-4687-87bf-49e51aa64576)
+![image](https://github.com/MaduSales/ExerciciosDeLoopingsONE/assets/166547195/f9dece89-fa7b-4800-9b2a-5dcdb0ef77b7)
+
